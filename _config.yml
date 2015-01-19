@@ -97,5 +97,6 @@ stylus:
 #b
 backup:
     type: git
+    theme: pacman
     repository:
        github: git@github.com:feika/hexobackup.git,master
