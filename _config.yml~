@@ -94,3 +94,7 @@ sitemap:
 #d
 stylus:
   compress: true
+backup:
+    type: git
+    repository:
+       github: git@github.com:feika/hexobackup.git,master
