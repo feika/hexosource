@@ -98,3 +98,8 @@ backup:
     type: git
     repository:
        github: git@github.com:feika/hexobackup.git,master
+backup:
+    type: git
+    theme: pacman
+    repository:
+       github:  git@github.com:feika/hexobackup.git,master
