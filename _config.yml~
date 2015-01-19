@@ -99,4 +99,4 @@ backup:
     type: git
     them: pacman
     repository:
-       github: git@github.com:feika/hexobackup.git,master
+       github: git@github.com:feika/hexosource.git,master
