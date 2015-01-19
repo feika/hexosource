@@ -98,4 +98,4 @@ stylus:
 backup:
     type: git
     repository:
-       github: git@github.com:feika/hexosource.git,master
+       github: git@github.com:feika/hexobackup.git,master
