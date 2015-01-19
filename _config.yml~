@@ -96,10 +96,6 @@ stylus:
   compress: true
 backup:
     type: git
+    them: pacman
     repository:
        github: git@github.com:feika/hexobackup.git,master
-backup:
-    type: git
-    theme: pacman
-    repository:
-       github:  git@github.com:feika/hexobackup.git,master
